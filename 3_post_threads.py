@@ -28,15 +28,14 @@ HASHTAG_LIST = [
 
 
 PROMOSI_LIST = [
-    "Mau update harga emas tiap saat? Yuk gabung grup kami, link ada di bio 👆",
-    "Info lebih lengkap ada di grup kami, cek link di bio 📲",
-    "Dapatkan notifikasi harga emas di WA, link bergabung ada di bio",
-    "Diskusi & update harga emas setiap saat, gabung sekarang link di bio",
-    "Komunitas investor emas aktif, join sekarang! Link ada di bio 👆",
-    "Jangan ketinggalan update harga, join grup kami lewat link di bio 📊",
-    "Ratusan investor emas sudah gabung, giliranmu! Link di bio 🔗",
-    "Grup khusus pantau harga emas, join via link yang ada di bio ya",
-    "Update harga emas realtime langsung di grup kami, link bergabung di bio 💰",
+    "Update harga emas terkini, Join grup kami, link ada di bio 👆",
+    "Dapatkan info lebih lengkap di grup kami, link di bio 📲",
+    "Notifikasi harga emas di WA, join via link di bio",
+    "Komunitas ratusan investor emas aktif, Link whatsapp ada di bio 👆",
+    "Jangan lewatkan update harga emas, link di bio 📊",
+    "Ratusan investor emas sudah gabung di channel kami, Link di bio 🔗",
+    "Grup WA pantau harga emas, join via link yang ada di bio ya",
+    "Update harga emas terkini di grup kami, cek link di bio 💰",
 ]
 
 
