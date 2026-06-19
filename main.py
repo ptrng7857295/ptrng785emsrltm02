@@ -27,7 +27,7 @@ post_to_threads = post_mod.post_to_threads
 def run(dry_run: bool = False):
     import time
     import random
-    sleep_sec = random.randint(60, 300)  # random antara 1-5 menit
+    sleep_sec = random.randint(60, 240)  # random antara 1-4 menit
     print(f"[main] Menunggu {sleep_sec} detik sebelum fetch...")
     time.sleep(sleep_sec)
   
