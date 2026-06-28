@@ -8,7 +8,7 @@ BASE_URL = "https://graph.threads.net/v1.0"
 import random
 
 HASHTAG_LIST = [
-    "#Antamlogammulia",
+    "Antamlogammulia",
 ]
 
 
